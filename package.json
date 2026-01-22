@@ -86,7 +86,7 @@
     "eslint-plugin-jsx-a11y": "6.x",
     "eslint-plugin-react": "7.x",
     "eslint-plugin-react-hooks": "4.2.0",
-    "firebase-tools": "^9.10.2",
+    "firebase-tools": "^15.0.0",
     "gatsby-plugin-robots-txt": "^1.8.0",
     "gatsby-plugin-sitemap": "^6.9.0",
     "identity-obj-proxy": "^3.0.0",
